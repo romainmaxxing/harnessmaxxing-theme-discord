@@ -3,7 +3,7 @@
 Discord-inspired colors for [Harness Maxxing](https://harness-maxxing.com): deep slate panels, a blurple accent,
 dark and light modes. Values only (no advanced CSS), so it keeps working after every update.
 
-![Preview](preview.png)
+![Discord theme for Harness Maxxing](images/banner.webp)
 
 ## Install
 
@@ -30,12 +30,12 @@ Then pick **Discord** in Settings -> Appearance -> Theme.
 
 ## Screenshots
 
-| Dark | Light |
-|---|---|
-| ![Session, dark](screenshots/session-dark.png) | ![Session, light](screenshots/session-light.png) |
-| ![Dashboard, dark](screenshots/home-dark.png) | ![Dashboard, light](screenshots/home-light.png) |
+![Dark mode](images/dark.webp)
+![Dark and light modes](images/modes.webp)
+![Palette](images/palette.webp)
+![Install](images/install.webp)
 
-Screenshots show demo data only.
+Raw captures: [`screenshots/`](screenshots/). Screenshots show demo data only.
 
 Not affiliated with or endorsed by Discord Inc. "Discord" is a trademark of its owner; this theme only borrows a
 color palette.
