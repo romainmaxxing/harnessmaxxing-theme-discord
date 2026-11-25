@@ -1,7 +1,7 @@
 # Discord theme for Harness Maxxing
 
-Discord-inspired colors for [Harness Maxxing](https://harness-maxxing.com): deep slate panels, a blurple accent,
-dark and light modes. Values only (no advanced CSS), so it keeps working after every update.
+Discord-inspired colors for [Harness Maxxing](https://harness-maxxing.com), with strong contrast: clearly stepped slate
+panels, raised cards, a blurple accent and blurple selection, dark and light modes. Values only (no advanced CSS), so it keeps working after every update.
 
 ![Discord theme for Harness Maxxing](images/banner.webp)
 
@@ -23,8 +23,13 @@ Then pick **Discord** in Settings -> Appearance -> Theme.
 
 ## What it sets
 
-- Dark: frame `#1e1f22`, list `#2b2d31`, panel `#313338`, cards `#383a40`, text `#dbdee1`, accent `#5865f2`.
-- Light: frame `#e3e5e8`, list `#f2f3f5`, panel `#ffffff`, text `#313338`, accent `#5865f2`.
+- Dark: frame `#111214`, list `#1e1f22`, panel `#2b2d31`, cards `#3a3c43`, text `#f2f3f5`, secondary text `#b5bac1`,
+  accent `#5865f2`, selected row `#3b4170`.
+- Light: frame `#cdd0d6`, list `#e1e3e7`, panel `#eaecef`, cards `#ffffff`, text `#1e1f22`, secondary text `#4e5058`,
+  accent `#4752c4`, selected row `#dde0ff`.
+- Visible borders and shadows so cards, menus and fields stand out.
+
+Version 1.1.0 raised the contrast between every level (1.0.0 was too flat). Screenshots below show 1.0.0.
 - 8 px corners, DM Sans interface font, JetBrains Mono for code, dark mode by default.
 - Its own logo (a chat bubble) in the sidebar while the theme is in use.
 
