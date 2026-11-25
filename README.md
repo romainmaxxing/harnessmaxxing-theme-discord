@@ -29,7 +29,7 @@ Then pick **Discord** in Settings -> Appearance -> Theme.
   accent `#4752c4`, selected row `#dde0ff`.
 - Visible borders and shadows so cards, menus and fields stand out.
 
-Version 1.1.0 raised the contrast between every level (1.0.0 was too flat). Screenshots below show 1.0.0.
+Version 1.1.0 raised the contrast between every level (1.0.0 was too flat).
 - 8 px corners, DM Sans interface font, JetBrains Mono for code, dark mode by default.
 - Its own logo (a chat bubble) in the sidebar while the theme is in use.
 
